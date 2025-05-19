@@ -55,7 +55,7 @@ importers:
         specifier: ^8
         version: 8.5.3
       prettier:
-        specifier: ^3.2.5
+        specifier: ^3.5.3
         version: 3.5.3
       prettier-plugin-tailwindcss:
         specifier: ^0.5.11

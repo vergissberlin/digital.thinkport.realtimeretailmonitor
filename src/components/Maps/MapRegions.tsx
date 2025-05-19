@@ -1,6 +1,6 @@
 "use client";
 import jsVectorMap from "jsvectormap";
-import "jsvectormap/dist/css/jsvectormap.css";
+import "jsvectormap/dist/jsvectormap.css";
 import React, { useEffect } from "react";
 import "../../js/edeka";
 
@@ -43,13 +43,13 @@ const MapRegions: React.FC = () => {
           style: { fill: "orange" },
         },
         {
-            name: "Düsseldorf",
-            labelName: "Düsseldorf",
-            coords: [200, 580],
-            style: { fill: "orange" },
-        }
+          name: "Düsseldorf",
+          labelName: "Düsseldorf",
+          coords: [200, 580],
+          style: { fill: "orange" },
+        },
       ],
-  
+
       lines: [
         {
           from: "EDDI",
@@ -112,12 +112,12 @@ const MapRegions: React.FC = () => {
       visualizeData: {
         scale: ["#eeeeee", "#999999"],
         values: {
-            'REG-1': 29,
-            'REG-2': 100,
-            'REG-3': 190,
-            'REG-4': 75,
-            'REG-5': 200,
-            'REG-6': 120,
+          "REG-1": 29,
+          "REG-2": 100,
+          "REG-3": 190,
+          "REG-4": 75,
+          "REG-5": 200,
+          "REG-6": 120,
         },
       },
       regionStyle: {

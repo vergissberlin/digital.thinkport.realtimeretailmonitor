@@ -43,7 +43,7 @@ importers:
         specifier: ^18
         version: 18.3.7(@types/react@18.3.21)
       autoprefixer:
-        specifier: ^10.0.1
+        specifier: ^10.4.21
         version: 10.4.21(postcss@8.5.3)
       eslint:
         specifier: ^8

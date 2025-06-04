@@ -18,8 +18,8 @@ importers:
         specifier: ^4.6.13
         version: 4.6.13
       jsvectormap:
-        specifier: ^1.5.3
-        version: 1.6.0
+        specifier: ^1.7.0
+        version: 1.7.0
       next:
         specifier: 14.1.4
         version: 14.1.4(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
@@ -1268,8 +1268,8 @@ packages:
     resolution: {integrity: sha512-g1MWMLBiz8FKi1e4w0UyVL3w+iJceWAFBAaBnnGKOpNa5f8TLktkbre1+s6oICydWAm+HRUGTmI+//xv2hvXYA==}
     hasBin: true
 
-  jsvectormap@1.6.0:
-    resolution: {integrity: sha512-4b/v4GWqiggHGN+CBOJBhIdpSGLY6wVetmMKiOlQ7oVM1PIzsLlSBJDMQd9ycLk6Rmzg4aFua35QDrk5HPb1YQ==}
+  jsvectormap@1.7.0:
+    resolution: {integrity: sha512-8VmL3Uuen08Es9xb2N6Wdc32TrQDGPXYCIdTB126jAhTJsYd/4r4Mc63VQA3qHxG0p4zeCI8sFO5XRsdjljMJg==}
 
   jsx-ast-utils@3.3.5:
     resolution: {integrity: sha512-ZZow9HBI5O6EPgSJLUb8n2NKgmVWTwCvHGwFuJlMjvLFqlGG6pjirPhtdsseaLZjSibD8eegzmYpUZwoIlj2cQ==}
@@ -3383,7 +3383,7 @@ snapshots:
     dependencies:
       minimist: 1.2.8
 
-  jsvectormap@1.6.0: {}
+  jsvectormap@1.7.0: {}
 
   jsx-ast-utils@3.3.5:
     dependencies:

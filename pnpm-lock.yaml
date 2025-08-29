@@ -9,7 +9,7 @@ importers:
   .:
     dependencies:
       apexcharts:
-        specifier: ^3.45.2
+        specifier: ^3.54.1
         version: 3.54.1
       d3:
         specifier: ^7.9.0
